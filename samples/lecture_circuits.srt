@@ -1,0 +1,39 @@
+1
+00:00:02,000 --> 00:00:09,000
+Welcome to lecture four on DC circuits. Today we cover Ohm's law, series and parallel resistors, and ideal meters.
+
+2
+00:00:09,500 --> 00:00:20,000
+Ohm's law says the voltage across a resistor equals the current through it times its resistance. V equals I times R.
+
+3
+00:00:20,500 --> 00:00:34,000
+When resistors are in series, the same current flows through all of them and the voltages add up. The equivalent resistance is simply the sum.
+
+4
+00:00:34,500 --> 00:00:52,000
+When resistors are in parallel, they all share the same voltage, and the currents add up. The reciprocal of the equivalent resistance is the sum of the reciprocals of each resistance.
+
+5
+00:01:05,000 --> 00:01:20,000
+Now ideal meters. An ideal voltmeter has infinite resistance. No current flows through it, so it behaves like an open circuit, not like a wire.
+
+6
+00:01:20,500 --> 00:01:38,000
+You connect a voltmeter in parallel with the component you want to measure. It reads the potential difference between the two points it touches.
+
+7
+00:01:38,500 --> 00:01:52,000
+A common trap: if a resistor is in series with an ideal voltmeter, no current flows through that resistor, so it has no voltage drop. The voltmeter then effectively reads across whatever the whole branch is connected to.
+
+8
+00:02:05,000 --> 00:02:20,000
+An ideal ammeter is the opposite. It has zero resistance, so it behaves like a wire, and you connect it in series with the component.
+
+9
+00:02:30,000 --> 00:02:48,000
+Kirchhoff's current law: at any junction, the total current flowing in equals the total current flowing out. Charge is conserved, it cannot pile up at a node.
+
+10
+00:02:48,500 --> 00:03:08,000
+Current division: for parallel resistors, each branch carries a share of the total current in proportion to its conductance, one over its resistance. Lower resistance takes more current.
